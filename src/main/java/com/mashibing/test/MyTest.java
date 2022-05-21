@@ -19,7 +19,7 @@ public class MyTest {
 
     SqlSessionFactory sqlSessionFactory = null;
 
-    @Before
+//    @Before
     public void init(){
       // 根据全局配置文件创建出SqlSessionFactory
       // SqlSessionFactory:负责创建SqlSession对象的工厂
